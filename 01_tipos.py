@@ -34,4 +34,3 @@ print(type(10 > 5))
 
 # sin valor (none)
 print(type(None)) # simplemente representa la ausencia de valor
-print(type()) # sin argumentos devuelve None
